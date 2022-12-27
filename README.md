@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IreneM97, post-grad business student and starbucks barista by day and self-learner by night.
+- 👋 Hi, I’m @IreneM97, post-grad business student and Starbucks barista by day and analyics self-learner by night.
 - 👀 I’m interested in data/business analytics, especially consumers' analytics.
 - 🌱 I’m currently learning data analytics and building portfolio projects.
 - 💞️ I love NBA games and crime shows.
